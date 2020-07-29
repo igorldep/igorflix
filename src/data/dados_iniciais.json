@@ -1,16 +1,16 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Series",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Minhas séries preferidas",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "BRUNO BAFO DE BOSTA",
+          "titulo": "This is a nice video about React JS",
           "url": "https://www.youtube.com/watch?v=N3AkSS5hXMA"
         },
         {
