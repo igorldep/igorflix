@@ -7,6 +7,7 @@
 Após baixar o projeto, acesse ele via seu terminal rode os comandos:
 
 ```sh
+------ npm run dev
 npm install
 npm start
 ```
